@@ -245,10 +245,6 @@ Inilah yang membuat blockchain **tidak bisa dimodifikasi**:
 ---
 ---
 
-Berikut adalah bagian **Tokenomic** dalam format raw Markdown, disusun untuk orang awam dengan analogi dan contoh:
-
----
-
 ## 5. Tokenomic: Ekonomi dalam Dunia Token
 
 **Tokenomic** adalah gabungan dari kata *token* dan *economics*. Artinya, tokenomic membahas bagaimana token diciptakan, dibagikan, digunakan, dan dikelola dalam suatu proyek crypto.
