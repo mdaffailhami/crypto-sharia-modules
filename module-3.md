@@ -331,4 +331,133 @@ Tokenomic yang sehat harus mempertimbangkan:
 ---
 ---
 
+## 6. Whitepaper
 
+### 6.1 Pengertian Whitepaper
+
+Whitepaper adalah dokumen resmi dari sebuah proyek crypto yang menjelaskan:
+- Masalah yang ingin diselesaikan,
+- Solusi yang ditawarkan,
+- Teknologi yang digunakan,
+- Rencana pengembangan (roadmap),
+- Tokenomic (alokasi dan distribusi token),
+- Tim pengembang.
+
+> 📄 Whitepaper adalah “proposal” kepada publik yang ingin tahu apa sih tujuan dan mekanisme kerja dari proyek itu.
+
+### 6.2 Pentingnya Whitepaper
+
+- Sebagai bahan analisa sebelum berinvestasi
+- Memberi gambaran apakah proyek punya visi yang jelas dan realistis
+- Menunjukkan apakah proyek benar-benar punya use-case atau cuma “hype” semata
+
+### 6.3 Contoh Whitepaper
+
+- **Bitcoin** : [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
+- **Ethereum**: [https://ethereum.org/en/whitepaper/](https://ethereum.org/en/whitepaper/)
+
+---
+---
+
+## 7. DAO (Decentralized Autonomous Organization)
+
+### 7.1 Pengertian DAO
+
+DAO adalah organisasi yang berjalan secara otomatis dan terbuka berdasarkan smart contract. Tidak ada CEO, bos, atau manajer — semua keputusan dilakukan lewat **voting oleh komunitas**.
+
+> 🧠 DAO = organisasi berbasis kode dan dijalankan oleh komunitas sehingga tidak dikontrol oleh suatu pihak terpusat, .
+
+### 7.2 Contoh DAO
+
+- **MakerDAO** – komunitas yang mengelola stablecoin DAI
+- **Aragon** – platform untuk membangun DAO sendiri
+- **Uniswap DAO** – komunitas yang mengatur perkembangan protokol Uniswap
+
+### 7.3 Cara Kerja
+
+Biasanya setiap orang yang punya token (misal **UNI** untuk **Uniswap**) bisa mengajukan proposal dan ikut voting. Semakin banyak token, semakin besar hak suaranya.
+
+---
+---
+
+## 8. Bridge
+
+### 8.1 Pengertian Bridge
+
+Bridge adalah jembatan yang menghubungkan dua jaringan blockchain yang berbeda. Misalnya:
+- Dari Ethereum ke Arbitrum
+
+Karena setiap blockchain punya sistem dan token yang berbeda, maka **Bridge** dibutuhkan agar users bisa:
+- Memindahkan token antar jaringan,
+- Berinteraksi dengan dApps di ekosistem berbeda.
+
+> 🌉 Bridge membuat dunia crypto lebih saling terhubung.
+
+### 8.2 Cara Kerja Sederhana
+
+Misal kita kirim ETH dari Ethereum ke Arbitrum:
+- **ETH** kita “dikunci” di Ethereum
+- Lalu versi “tiruan”-nya (wrapped **ETH** / **wETH**) diterbitkan di Arbitrum
+
+Kalau kita mau mengambil balik **ETH** kita yang terkunci itu, maka kita perlu menghanguskan (_burn_) **wETH** punya kita itu
+
+---
+---
+
+## 9. Apa Itu Swap?
+
+### 9.1 Pengertian Swap
+
+Swap adalah proses menukar satu aset crypto ke aset lain secara instan. Biasanya dilakukan langsung dari wallet kita, tanpa perantara seperti CEX (_Centralized Exchange_).
+
+Contoh:
+- Swap ETH ke USDC di Uniswap
+- Swap USDC ke SOL di Raydium
+
+> 🔁 Swap = tukar menukar token secara langsung via smart contract
+
+### 9.2 Prosesnya
+
+1. Kita pilih dua token yang ingin ditukar
+2. Smart contract akan mencari harga terbaik dari liquidity pool
+3. Jika setuju, kita tinggal klik "Swap", maka token akan langsung bertukar
+
+---
+---
+
+## 10. Macam-Macam Investasi di Dunia Crypto
+
+### 10.1 Fungible Tokens
+
+- **Bitcoin**
+- **Ether**
+- **Solana**
+- **SUI**
+- **Dogecoin**
+- dll
+
+### 10.2 NFT
+
+Aset digital unik berbentuk:
+- Gambar seni (art)
+- Sertifikat, tiket, item game
+- dll
+
+### 10.3 DeFi
+
+- **Staking**: Mengunci aset crypto untuk mendapatkan _reward_ 
+- **Providing Liquidity**: Menyediakan likuiditas untuk mendapatkan _reward_
+- dll
+
+### 10.5 Launchpad & Presale
+ 
+Berinvestasi di proyek crypto yang masih awal
+
+> Risiko tinggi, tapi potensi reward besar
+
+### 10.6 Tokenized Real World Asset
+
+Aset di dunia nyata yang ditokenisasi, seperti:
+- Emas: **PAXG**
+- Saham: **NVDAx**, **TSLAx**, **MSFTx**, **GOOGLx**
+- dll
