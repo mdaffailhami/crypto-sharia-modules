@@ -4,7 +4,7 @@
 
 Smart contract adalah **program otomatis** yang berjalan di atas blockchain. Ia akan mengeksekusi instruksi tertentu **secara otomatis** ketika kondisi yang ditentukan terpenuhi — tanpa perlu perantara.
 
-> 📜 Disebut "**Smart Bontract**" (kontrak pintar) karena ia menggantikan peran kontrak tradisional, namun dalam bentuk kode.
+> 📜 Disebut "**Smart Contract**" (kontrak pintar) karena ia menggantikan peran kontrak tradisional, namun dalam bentuk kode.
 
 ### 1.2 Analogi Sederhana
 
